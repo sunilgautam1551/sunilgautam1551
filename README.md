@@ -5,7 +5,7 @@
 **Senior Software Engineer · Frontend architecture, web performance, and scalable UI platforms**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sunilbuilds.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sunilbuilds.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-gautam-308937170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilgautamdev)
 [![Email](https://img.shields.io/badge/Email-sunil904gautam@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunil904gautam@gmail.com)
 
 </div>
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a frontend engineer with ~6 years of experience, focused on the architecture and performance of **large React, Next.js, and TypeScript applications**. I work at the platform level: how an app is structured, how it loads, how it renders under heavy data, and how teams can keep shipping on it without slowing down.
+I'm a senior software engineer with ~6 years of experience, focused on the architecture and performance of **large React, Next.js, and TypeScript applications**. I work at the platform level: how an app is structured, how it loads, how it renders under heavy data, and how teams can keep shipping on it without slowing down.
 
 My work sits where **architecture meets performance**. I set frontend direction, make the trade-offs explicit, and build the foundations other engineers build on: design systems, shared component libraries, data-fetching patterns, auth, and testing standards.
 
@@ -211,7 +211,7 @@ const sunil: Engineer = {
 ### 🤝 Let's build something fast, accessible, and delightful
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sunilbuilds.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-gautam-308937170/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilgautamdev)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunil904gautam@gmail.com)
 
 ⭐ If you find something here useful, feel free to explore, open an issue, or start a discussion.
